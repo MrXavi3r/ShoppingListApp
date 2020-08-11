@@ -34,6 +34,3 @@ $(function () {
     });
 });
 
-// console.log(addItem(""
-// console.log(toggleCheck())
-// console.log(removeItem())
